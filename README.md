@@ -1,44 +1,105 @@
 <div align="center">
  
- 
-<img width="100%" src="https://www.springboard.com/blog/wp-content/uploads/2022/06/what-does-a-coder-do-2022-career-guide-1.jpg" alt="cover" />
+<img height="200" width="100%" src="https://www.springboard.com/blog/wp-content/uploads/2022/06/what-does-a-coder-do-2022-career-guide-1.jpg" alt="cover" />
 </div>
-<!-- <span align="left"> <img src="https://komarev.com/ghpvc/?username=hellomrariful&label=Profile%20views&color=0e75b6&style=flat" alt="hellomrariful" /> </span>  -->
 <h1 align="center">Hi 👋, I'm Ariful Islam</h1>  
-<h3 align="center">A Bangladeshi Frontend Dynamo, transforming ideas into interactive experiences🇧🇩</h3>  
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hellomrariful&" alt="hellomrariful" /></p>
-<br>
+<h3 align="center">A Bangladeshi Frontend Dynamo, transforming ideas into interactive experiences🇧🇩</h3>
 
-<p align="center"> <a href="https://github.com/hellomrariful/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hellomrariful&row=1&column=6&theme=onedark" alt="hellomrariful" /></a> </p>
+<div style="text-align: center;">
+  <a href="https://git.io/streak-stats" target="_blank">
+    <img src="https://streak-stats.demolab.com?user=hellomrariful&theme=algolia&border_radius=4.3&card_width=500" alt="GitHub Streak" style="border-radius: 4.3px; width: 500px;">
+  </a>
+</div>
 
 <h2> Who Am I 🙋🏻‍♂️ </h2>
 <img width="30%" align="right" alt="Github" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" />
 
-- 🔭 I’m currently working at [Anolipi](https://www.anolipi.com/)  
+- 🔭 I’m currently working at [Anolipi](https://www.anolipi.com/)
 
 - 🌱 I’m currently learning Next.js, Redux & React Native.
 
 - 💬 Discus me about JavaScript, React, Node, Express, MongoDB etc.
- - 📫 Reach me at **hello.mrariful@gmail.com**  
+- 📫 Reach me at **hello.mrariful@gmail.com**
+
+<h2>Let's Connect Together 📲</h2>  
+<p align="center" gap="2px">
+  <a href="https://www.linkedin.com/in/hellomrariful/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://twitter.com/hellomrariful">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="https://www.instagram.com/hellomrariful">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
+  
+<h2>Technologies that I Skilled ⚙️ </h2>
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,firebase,nodejs,express,mongodb&perline=5" />
+</p>
+
+  <h2>Latest Hot Projects ⚛️ </h2>
+
+### 📰 Anolipi | A Online News Portal
+
+- **Description:** Anolipi is a Online public demand news portal. In this projects, User can publish his/her article. Also user can read premium content by subscribe. User can pay by stripe payment method. Anolipi has 3 role of user, 1.Admin, 2.Normal User, 3.Premium User. Anolipi is built in a way that has all the features of a standard online news site.
+- **Key Features:**
+  - User can publish his/her article.
+  - User can buy subscription.
+  - User can search by tags, publisher, title.
+  - Admin can make article premium, decline, approve, delete etc.
+
+- **Technologies Used:**
+
+  - **Frontend:** JavaScript, React.js, Tailwind CSS and Material Tailwind.
+  - **Backend:** Node.js, Express.js.
+  - **Database:** MongoDB.
+  - **Authentication:** Firebase Authentication with JWT.
+  - **Host:** Firebase.
+
+- [Anolipi-Client](https://github.com/hellomrariful/Anolipi-Client?tab=readme-ov-file) | [Anolipi-Server](https://github.com/hellomrariful/Anolipi-Server) | [Anolipi Live](https://anolipi.web.app/)
 
 <br>
-  
-<h2>Let's Connect Together 📲</h2>  
-<p align="left">
-<a href="https://twitter.com/hellomrariful" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hellomrariful" height="30" width="40" /></a>  
-<a href="https://linkedin.com/in/hellomrariful" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hellomrariful" height="30" width="40" /></a>  
-<a href="https://fb.com/hellomrariful.id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hellomrariful.id" height="30" width="40" /></a>  
-<a href="https://instagram.com/hellomrariful" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hellomrariful" height="30" width="40" /></a>    
-</p>  
 
-<br> 
-  
-<h2>Languages and Tools ⚙️ </h2>  
+### ✈️ Tripify BD | A Tourist Guide Web.
 
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-  <br>
-  <h2> My GitHub Analytics 💹 </h2>
+- **Description:** Tripify is a Online career maker website. In this projects, user can earn money by guiding tourists in his area. This website has 3 role of user, 1.Admin, 2.Tourist, 3.Tour Guide. Anolipi is built in MERN[MongoDB, Express.js, React.js, Node.js] Stake.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hellomrariful&show_icons=true&locale=en" alt="hellomrariful" /></p>
+- **Technologies Used:**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hellomrariful&show_icons=true&locale=en&layout=compact" alt="hellomrariful" /></p>
+  - **Frontend:** JavaScript, React.js, Tailwind CSS.
+  - **Backend:** Node.js, Express.js.
+  - **Database:** MongoDB.
+  - **Authentication:** Firebase Authentication with JWT.
+  - **Host:** Firebase
+
+- [Tripify-Client](https://github.com/hellomrariful/Tripify-Client) |
+  [Tripify-Server](https://github.com/hellomrariful/Tripify-Server) | [Tripify Live](https://tripifybd.web.app/)
+
+<br>
+
+### 🛒 Gadger | A digital online Gadget shop.
+
+- **Description:** Gadger is a Online Gadget sell ecommerce website. This project is developed for various Brand Product Sell. In this project, User can Buy Latest and Greatest Products. Gadger is built in a way that has all the features of a standard online e-commerce site. Like, user can add product, search product, buy product etc. This project also built in MERN Stack based.
+
+- **Technologies Used:**
+
+  - **Frontend:** JavaScript, React.js, Tailwind CSS.
+  - **Backend:** Node.js, Express.js.
+  - **Database:** MongoDB.
+  - **Authentication:** Firebase Authentication.
+  - **Host:** Firebase
+
+- [Gadger-Client](https://github.com/hellomrariful/Gadger-Store-Client) |
+[Gadger-Server](https://github.com/hellomrariful/Gadger-Store-Server) | [Gadger Live](https://gadgerbd.web.app/)
+
+  <h2>GitHub Analytics 📈 </h2>
+
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
+  <img style="hight: 50px; width : 500px" src="https://github-readme-stats.vercel.app/api?username=hellomrariful&show_icons=true&locale=en&theme=algolia&border_radius=4.3&card_width=500" alt="hellomrariful" />
+
+<img style="height: full; width: 500px; border-radius: 2px; border: 1px solid #ffffff; margin-top: 10px;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hellomrariful&theme=algolia&border_radius=4.3&card_width=500" alt="GitHub Profile Details" />
+
+</div>
