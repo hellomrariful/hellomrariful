@@ -1,6 +1,6 @@
 <div align="center">
  
-<img height="200" width="100%" src="https://www.springboard.com/blog/wp-content/uploads/2022/06/what-does-a-coder-do-2022-career-guide-1.jpg" alt="cover" />
+[![Blue-and-White-Modern-Tech-Web-Developer-Twitter-Header.png](https://i.postimg.cc/ZRNsJbtB/Blue-and-White-Modern-Tech-Web-Developer-Twitter-Header.png)](https://postimg.cc/r08NJLpM)
 </div>
 <h1 align="center">Hi 👋, I'm Ariful Islam</h1>  
 <h3 align="center">A Bangladeshi Frontend Dynamo, transforming ideas into interactive experiences🇧🇩</h3>
