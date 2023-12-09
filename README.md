@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Ariful Islam</h1>  
 <h3 align="center">A Bangladeshi Frontend Dynamo, transforming ideas into interactive experiences🇧🇩</h3>
 
-<div style="text-align: center;">
+<div align="center">
   <a href="https://git.io/streak-stats" target="_blank">
     <img src="https://streak-stats.demolab.com?user=hellomrariful&theme=algolia&border_radius=4.3&card_width=500" alt="GitHub Streak" style="border-radius: 4.3px; width: 500px;">
   </a>
@@ -97,9 +97,10 @@
 
   <h2>GitHub Analytics 📈 </h2>
 
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
-  <img style="hight: 50px; width : 500px" src="https://github-readme-stats.vercel.app/api?username=hellomrariful&show_icons=true&locale=en&theme=algolia&border_radius=4.3&card_width=500" alt="hellomrariful" />
+<div align="center">
+  <img height="" width="500px" src="https://github-readme-stats.vercel.app/api?username=hellomrariful&show_icons=true&locale=en&theme=algolia&border_radius=4.3&card_width=500" alt="hellomrariful" />
+   <br />
 
-<img style="height: full; width: 500px; border-radius: 2px; border: 1px solid #ffffff; margin-top: 10px;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hellomrariful&theme=algolia&border_radius=4.3&card_width=500" alt="GitHub Profile Details" />
-
+  <img style="height: auto; width: 500px; border-radius: 2px; border: 1px solid #ffffff; margin-top: 10px; display: block;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hellomrariful&theme=algolia&border_radius=4.3&card_width=500" alt="GitHub Profile Details" />
 </div>
+
