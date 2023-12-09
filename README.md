@@ -65,7 +65,7 @@
 
 ### ✈️ Tripify BD | A Tourist Guide Web.
 
-- **Description:** Tripify is a Online career maker website. In this projects, user can earn money by guiding tourists in his area. This website has 3 role of user, 1.Admin, 2.Tourist, 3.Tour Guide. Anolipi is built in MERN[MongoDB, Express.js, React.js, Node.js] Stake.
+- **Description:** Tripify is a Online career maker website. In this projects, user can earn money by guiding tourists in his area. This website has 3 role of user, 1.Admin, 2.Tourist, 3.Tour Guide. Tripify is built in MERN[MongoDB, Express.js, React.js, Node.js] Stake.
 
 - **Technologies Used:**
 
