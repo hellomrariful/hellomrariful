@@ -98,9 +98,5 @@
   <h2>GitHub Analytics 📈 </h2>
 
 <div align="center">
-  <img height="" width="500px" src="https://github-readme-stats.vercel.app/api?username=hellomrariful&show_icons=true&locale=en&theme=algolia&border_radius=4.3&card_width=500" alt="hellomrariful" />
-   <br />
-
   <img style="height: auto; width: 500px; border-radius: 2px; border: 1px solid #ffffff; margin-top: 10px; display: block;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hellomrariful&theme=algolia&border_radius=4.3&card_width=500" alt="GitHub Profile Details" />
 </div>
-
