@@ -44,11 +44,11 @@
 
 ### 📰 Anolipi | A Online News Portal
 
-- **Description:** Anolipi is a Online public demand news portal. In this projects, User can publish his/her article. Also user can read premium content by subscribe. User can pay by stripe payment method. Anolipi has 3 role of user, 1.Admin, 2.Normal User, 3.Premium User. Anolipi is built in a way that has all the features of a standard online news site.
+- **Description:** Anolipi is an Online public-demand news portal. In this project, User can publish his/her article. Also, users can read premium content by subscribe. Users can pay by stripe payment method. Anolipi has 3 roles of user, 1. Admin, 2.Normal User, 3. Premium User. Anolipi is built in a way that has all the features of a standard online news site.
 - **Key Features:**
   - User can publish his/her article.
-  - User can buy subscription.
-  - User can search by tags, publisher, title.
+  - User can buy a subscription.
+  - Users can search by tags, publisher, and title.
   - Admin can make article premium, decline, approve, delete etc.
 
 - **Technologies Used:**
@@ -65,7 +65,7 @@
 
 ### ✈️ Tripify BD | A Tourist Guide Web.
 
-- **Description:** Tripify is a Online career maker website. In this projects, user can earn money by guiding tourists in his area. This website has 3 role of user, 1.Admin, 2.Tourist, 3.Tour Guide. Tripify is built in MERN[MongoDB, Express.js, React.js, Node.js] Stake based.
+- **Description:** Tripify is an Online career maker website. In this project, users can earn money by guiding tourists in their area. This website has 3 roles of user, 1. Admin, 2.Tourist, 3. Tour Guide. Tripify is built in MERN[MongoDB, Express.js, React.js, Node.js] Stake based.
 
 - **Technologies Used:**
 
@@ -82,7 +82,7 @@
 
 ### 🛒 Gadger | A digital online Gadget shop.
 
-- **Description:** Gadger is a Online Gadget sell ecommerce website. This project is developed for various Brand Product Sell. In this project, User can Buy Latest and Greatest Products. Gadger is built in a way that has all the features of a standard online e-commerce site. Like, user can add product, search product, buy product etc. This project also built in MERN Stack based.
+- **Description:** Gadger is an Online Gadget selling ecommerce website. This project is developed for various Brand Product Sell. In this project, User can Buy Latest and Greatest Products. Gadger is built in a way that has all the features of a standard online e-commerce site. Like, users can add products, search for products, buy products etc. This project is also built in the MERN Stack.
 
 - **Technologies Used:**
 
