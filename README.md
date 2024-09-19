@@ -14,9 +14,9 @@
 <h2> Who Am I 🙋🏻‍♂️ </h2>
 <img width="30%" align="right" alt="Github" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" />
 
-- 🔭 I’m currently working on [Anolipi](https://anolipi.web.app/)
+- 🔭 I’m currently working on [Anolipi Digital LLC](https://www.anolipidigital.com/)
 
-- 🌱 I’m currently learning Next.js, Redux & React Native.
+- 🌱 I’m currently learning Next.js, Typescript & Redux.
 
 - 💬 Discus me about JavaScript, React, Node, Express, MongoDB etc.
 - 📫 Reach me at **hello.mrariful@gmail.com**
