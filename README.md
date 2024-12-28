@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ariful Islam</h1>  
-<h3 align="center">A Bangladeshi Frontend Dynamo, transforming ideas into interactive experiences🇧🇩</h3>
+<h1 align="center">Hi 👋, This is Ariful</h1>  
+<h3 align="center">A Software Developer, bringing imagination to life digitally.</h3>
 
 <div align="center">
   <a href="https://git.io/streak-stats" target="_blank">
