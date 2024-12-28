@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://git.io/streak-stats" target="_blank">
-    <img src="https://streak-stats.demolab.com?user=hellomrariful&theme=algolia&border_radius=4.3&card_width=500" alt="GitHub Streak" style="border-radius: 4.3px; width: 500px;">
+    <img src="https://streak-stats.demolab.com?user=hellomrariful&theme=algolia&border_radius=4.3&card_width=500" alt="GitHub Streak" style="border-radius: 4.3px; width: 100%;">
   </a>
 </div>
 
