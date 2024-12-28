@@ -1,7 +1,3 @@
-<div align="center">
- 
-[![Blue-and-White-Modern-Tech-Web-Developer-Twitter-Header.png](https://i.postimg.cc/ZRNsJbtB/Blue-and-White-Modern-Tech-Web-Developer-Twitter-Header.png)](https://postimg.cc/r08NJLpM)
-</div>
 <h1 align="center">Hi 👋, I'm Ariful Islam</h1>  
 <h3 align="center">A Bangladeshi Frontend Dynamo, transforming ideas into interactive experiences🇧🇩</h3>
 
