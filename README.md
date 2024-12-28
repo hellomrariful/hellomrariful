@@ -3,9 +3,13 @@
 
 <div align="center">
   <a href="https://git.io/streak-stats" target="_blank">
-    <img src="https://streak-stats.demolab.com?user=hellomrariful&theme=algolia&border_radius=4.3&card_width=500" alt="GitHub Streak" style="border-radius: 4.3px; width: 100%;">
+    <img 
+      src="https://streak-stats.demolab.com?user=hellomrariful&theme=algolia&border_radius=4.3&card_width=1000&hide_title=false" 
+      alt="GitHub Streak" 
+      style="border-radius: 4.3px; width: 100%; max-width: 1000px;">
   </a>
 </div>
+
 
 <h2> Who Am I 🙋🏻‍♂️ </h2>
 <img width="30%" align="right" alt="Github" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" />
