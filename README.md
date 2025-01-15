@@ -2,13 +2,10 @@
 <h3 align="center">A Software Developer, bringing imagination to life digitally.</h3>
 
 <div align="center">
-<a href="https://git.io/streak-stats" target="_blank">
   <img 
     src="https://github-readme-streak-stats-eight.vercel.app/?user=hellomrariful&theme=algolia&card_width=1000" 
     alt="GitHub Streak" 
-    style="border-radius: 4.3px; width: 100%; max-width: 1000px;">
-</a>
-
+    style="border-radius: 4.3px; width: 100%; max-width: 1000px;"/>
 
 
 <!--   <a href="https://git.io/streak-stats" target="_blank">
