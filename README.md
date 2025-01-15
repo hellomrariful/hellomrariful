@@ -2,12 +2,20 @@
 <h3 align="center">A Software Developer, bringing imagination to life digitally.</h3>
 
 <div align="center">
-  <a href="https://git.io/streak-stats" target="_blank">
+<a href="https://git.io/streak-stats" target="_blank">
+  <img 
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=hellomrariful&theme=merko" 
+    alt="GitHub Streak" 
+    style="border-radius: 4.3px; width: 100%; max-width: 1000px;">
+</a>
+
+
+<!--   <a href="https://git.io/streak-stats" target="_blank">
     <img 
       src="https://streak-stats.demolab.com?user=hellomrariful&theme=algolia&border_radius=4.3&card_width=1000&hide_title=false" 
       alt="GitHub Streak" 
       style="border-radius: 4.3px; width: 100%; max-width: 1000px;">
-  </a>
+  </a> -->
 </div>
 
 <h2> Who Am I 🙋🏻‍♂️ </h2>
