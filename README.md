@@ -2,10 +2,10 @@
 <h3 align="center">A Software Developer, bringing imagination to life digitally.</h3>
 
 <div align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=hellomrariful&theme=algolia&border_radius=4.3&card_width=1000&hide_title=false" 
+ <img 
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=hellomrariful&theme=algolia&card_width=1000" 
     alt="GitHub Streak" 
-    style="border-radius: 4.3px; width: 100%; max-width: 1000px;" />
+    style="border-radius: 4.3px; width: 100%; max-width: 1000px;">
 </div>
 
 <h2> Who Am I 🙋🏻‍♂️ </h2>
